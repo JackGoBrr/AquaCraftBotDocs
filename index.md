@@ -1,6 +1,7 @@
 # Welcome to Aqua v2
-Hey there! Welcome to the documentation and monitoring site of **Aqua v2!**
+Hey there! Welcome to the documentation and monitoring site of **Aqua v2**!
 Here you'll find all infomation that you need to know about AquaBot, and what it can do!
+
 *Make sure to join the AquaCraft Discord and check it out!*
 
 ### Credits
