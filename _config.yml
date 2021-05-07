@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Aqua v2
 description: The official bot powering the AquaCraft Discord Server
+show_downloads: false
