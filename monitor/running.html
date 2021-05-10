@@ -16,7 +16,16 @@
 
     <header class="page-header" role="banner">
       <h1 class="project-name">Monitor Running</h1>
-      <h2 class="project-tagline">Woohoo! You were redirected here because the bot is currently online!</h2>
+      <h2 class="project-tagline">Woohoo! You've been redirected here because the monitor is online!</h2>
+      {% if site.github.is_project_page %}
+        <a href="https://aqua.aquacraft.cc/" class="btn">Home</a>
+        <a href="https://go.aquacraft.cc/discord" class="btn">Discord</a>
+        <a href="https://store.aquacraft.cc" class="btn">Store</a>
+      {% endif %}
     </header>
+
+    <main id="content" class="main-content" role="main">
+      {{ content }}
+    </main>
   </body>
 </html>
